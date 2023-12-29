@@ -12,7 +12,7 @@ private void companyId() {
 
 }	
 public static void main(String[] args) {
-	CompanyInfo c=new CompanyInfo();
+CompanyInfo c=new CompanyInfo();
 c.companyName();
 c.companyId();
 
